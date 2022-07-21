@@ -20,4 +20,24 @@ public class TextStatisticsService {
         
     }
 
+    public Integer wordCount(List<String> data){
+
+        return null; 
+    }
+
+    public String mostCommonWord(List<String> data){
+
+        return null; 
+    }
+
+    public Integer longestWordLength(List<String> data){
+
+        return null; 
+    }
+
+    public Double averageWordLength(List<String> data){
+
+        return null; 
+    }
+
 }
